@@ -22,3 +22,5 @@ It also initilises the game components and starts everything.
 * In the beginning, the "initGame" method initialises the game.
 * A variable named "inGame" is used to alert the end of the game; at each update, this variable is checked, if it equals 'false' then the timer stops, every thing gets disabled, and player score will be displayed on the screen
 
+
+** **Any comments or suggestions will be appreciated**
